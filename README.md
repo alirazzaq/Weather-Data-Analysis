@@ -28,15 +28,6 @@ The following key questions are addressed as part of this analysis:
 
 ---
 
-## 📁 Data Source
-This project uses an open-source weather dataset, which includes detailed weather 
-observations such as temperature, visibility, humidity, and wind speed recorded over 
-a specified period.
-
-- **Source**: [Insert Source Link Here]
-- **License**: Public Domain or specific license details
-
----
 
 ## 🚀 Features & Libraries Used
 The project leverages a combination of essential data science libraries to perform the analysis:
