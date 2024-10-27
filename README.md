@@ -60,7 +60,7 @@ To expand this project, future directions could include:
 ---
 
 ## 📬 Contact Information
-For questions or contributions, feel free to reach out at [Your Contact Email].
+For questions or contributions, feel free to reach out at [f2024393032@umt.edu.pk].
 
 ---
 
